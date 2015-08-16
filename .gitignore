@@ -61,5 +61,6 @@ docs/_build/
 target/
 
 # custom
+.DS_Store
 venv/
 *.json
